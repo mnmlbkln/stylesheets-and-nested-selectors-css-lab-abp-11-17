@@ -23,3 +23,14 @@ nav ul li {
   display: inline;
   margin-right: 10px;
 }
+
+nav a {
+  text-decoration: none;
+  color: #007bff;
+  font-size: 18px;
+}
+
+h3 header {
+  float: left;
+  font-size: 30px;
+}
